@@ -1,0 +1,16 @@
+.header,
+.list {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    background-color: blue;
+    color: white;
+    font-weight: 800;
+}
+
+.list {
+    background-color: green;
+    font-size: 18px;
+}
