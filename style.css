@@ -1,16 +1,31 @@
-.header,
-.list {
+
+
+* {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.header {
-    background-color: blue;
-    color: white;
-    font-weight: 800;
+body {
+    background-color: #CAFFD0;
 }
 
-.list {
-    background-color: green;
+.title {
+    background-color: #1E1014;
+    color: white;
+    font-weight: 800;
+    padding: 16px;
+}
+
+.recipe-links {
+    background-color: #CA3CFF;
     font-size: 18px;
+    padding: 12px;
+    margin: 24px 32px 24px
+}
+
+li {
+    width: 200px;
+    padding: 12px;
+    margin: 8px auto 8px;
+    background-color: #C9E4E7;
 }
